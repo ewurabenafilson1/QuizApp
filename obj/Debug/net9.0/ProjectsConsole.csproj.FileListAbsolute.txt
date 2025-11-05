@@ -1,0 +1,15 @@
+C:\Users\ewurabenafilson\OneDrive\Desktop\internship '25\backend\quizApp\ProjectsConsole\bin\Debug\net9.0\ProjectsConsole.exe
+C:\Users\ewurabenafilson\OneDrive\Desktop\internship '25\backend\quizApp\ProjectsConsole\bin\Debug\net9.0\ProjectsConsole.deps.json
+C:\Users\ewurabenafilson\OneDrive\Desktop\internship '25\backend\quizApp\ProjectsConsole\bin\Debug\net9.0\ProjectsConsole.runtimeconfig.json
+C:\Users\ewurabenafilson\OneDrive\Desktop\internship '25\backend\quizApp\ProjectsConsole\bin\Debug\net9.0\ProjectsConsole.dll
+C:\Users\ewurabenafilson\OneDrive\Desktop\internship '25\backend\quizApp\ProjectsConsole\bin\Debug\net9.0\ProjectsConsole.pdb
+C:\Users\ewurabenafilson\OneDrive\Desktop\internship '25\backend\quizApp\ProjectsConsole\obj\Debug\net9.0\ProjectsConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewurabenafilson\OneDrive\Desktop\internship '25\backend\quizApp\ProjectsConsole\obj\Debug\net9.0\ProjectsConsole.AssemblyInfoInputs.cache
+C:\Users\ewurabenafilson\OneDrive\Desktop\internship '25\backend\quizApp\ProjectsConsole\obj\Debug\net9.0\ProjectsConsole.AssemblyInfo.cs
+C:\Users\ewurabenafilson\OneDrive\Desktop\internship '25\backend\quizApp\ProjectsConsole\obj\Debug\net9.0\ProjectsConsole.csproj.CoreCompileInputs.cache
+C:\Users\ewurabenafilson\OneDrive\Desktop\internship '25\backend\quizApp\ProjectsConsole\obj\Debug\net9.0\ProjectsConsole.dll
+C:\Users\ewurabenafilson\OneDrive\Desktop\internship '25\backend\quizApp\ProjectsConsole\obj\Debug\net9.0\refint\ProjectsConsole.dll
+C:\Users\ewurabenafilson\OneDrive\Desktop\internship '25\backend\quizApp\ProjectsConsole\obj\Debug\net9.0\ProjectsConsole.pdb
+C:\Users\ewurabenafilson\OneDrive\Desktop\internship '25\backend\quizApp\ProjectsConsole\obj\Debug\net9.0\ProjectsConsole.genruntimeconfig.cache
+C:\Users\ewurabenafilson\OneDrive\Desktop\internship '25\backend\quizApp\ProjectsConsole\obj\Debug\net9.0\ref\ProjectsConsole.dll
+C:\Users\ewurabenafilson\OneDrive\Desktop\internship '25\backend\quizApp\ProjectsConsole\obj\Debug\net9.0\ProjectsConsole.sourcelink.json
